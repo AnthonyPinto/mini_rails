@@ -1,6 +1,4 @@
 require_relative '../bonus1_flash/controller_base'
-require_relative './csrf'
-
 
 module BonusCSRF
   class ControllerBase < BonusFlash::ControllerBase
